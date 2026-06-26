@@ -18,7 +18,8 @@
 | **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgres"/> | Проектирование оптимизированных реляционных баз данных, безопасное хранение информации, разработка сложных SQL-запросов и обеспечение высокой скорости обработки данных. |
 | **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/> | Контейнеризация приложений для стабильного развертывания, администрирование серверов (Ubuntu/Debian), управление версиями кода и организация совместной командной разработки. |
 ## 📁 Как устроено ведение проектов
-=======================================================================
+```text
+[=======================================================================
                         ЦЕНТР УПРАВЛЕНИЯ NEXUS-MGMT
     =======================================================================
 
@@ -45,4 +46,4 @@
     │  • Базы PostgreSQL    │                                 │
     │  • Интеграция ИИ & Bot◄─────────────────────────────────┘
     └───────────────────────┘
-
+]
